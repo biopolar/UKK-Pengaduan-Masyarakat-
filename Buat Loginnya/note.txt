@@ -1,0 +1,11 @@
+Masyarakat 
+Username : pengguna
+Password : pengguna123
+
+Petugas
+Username : Keiy
+Password : petugas123
+
+Admin 
+Username : Rizu
+Password : admin123
